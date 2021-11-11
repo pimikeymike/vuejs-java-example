@@ -25,4 +25,5 @@ hs_err_pid*
 
 
 #node modules
-.src/main/ui/node_modules
+src/main/ui/node_modules
+*src/main/ui/node_modules/*
